@@ -4,8 +4,8 @@ body
     text-align-last: center;
     font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
-    margin: 1;
-    padding: 1;
+    margin: 0;
+    padding: 0;
 }
 
 #cabecera
@@ -14,15 +14,15 @@ body
     box-shadow: 0px 2px 50px 0px rgba(0,0,0, .75);
     color: white;
     font-weight: bold;
-    margin: 1;
-    padding: 1.5em;
+    margin: 0;
+    padding: 0.5em;
 }
 
 #cabecera #tagline
 {
     padding: 0 0 0 1em;
     font-weight: normal;
-    font-size: 1.5em;
+    font-size: 0.5em;
 }
 
 #container
